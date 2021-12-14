@@ -1,0 +1,80 @@
+:root {
+  --Desaturated-blue: hsl(224, 23%, 55%);
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* Add Name Input */
+input {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 3px;
+}
+input[type="text"] {
+  width: 200px;
+}
+
+.name-tag {
+  background-color: red;
+  padding: 10px 0 20px;
+  border-radius: 20px;
+  width: 350px;
+  margin: 20px 10px;
+  display: inline-block;
+  position: relative;
+  box-shadow: 0px 15px 10px var(--Desaturated-blue);
+}
+.title {
+  color: white;
+  margin: 0;
+  font-size: 40px;
+}
+.subtitle {
+  color: white;
+  margin: 0;
+}
+.name {
+  background-color: white;
+  margin: 10px 0;
+  font-size: 60px;
+  height: 90px;
+  font-family: "Permanent Marker", Arial, Helvetica, sans-serif;
+}
+.name-tag__delete {
+  position: absolute;
+  padding: 5px 8px;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+}
+.name-tag__delete:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+}
+
+.new-name {
+  border-radius: 10px;
+  background-color: #e0ddd5;
+  border: none;
+  padding: 10px;
+  margin-right: 5px;
+}
+.new-name:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.create-name {
+  border-radius: 10px;
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 10px;
+}
+
+.create-name:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
