@@ -4,7 +4,7 @@ Allows the user to be fully interactive in creating and removing name tags.
 
 ### Screenshot
 
-![](<iframe src="https://giphy.com/embed/ntVvlrwGkgBS5AUy53" width="480" height="218" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ntVvlrwGkgBS5AUy53">via GIPHY</a></p>)
+![](https://media.giphy.com/media/ntVvlrwGkgBS5AUy53/giphy.gif)
 
 
 ### Links
