@@ -1,5 +1,5 @@
 # Name-tag-generator-final-ReactJS
-Build a name tag generator to create bulk name tags using functional components and ES6 modules.
+Built a name tag generator to create bulk name tags using functional components and ES6 modules.
 Allows the user to be fully interactive in creating and removing name tags. 
 
 ### Screenshot
